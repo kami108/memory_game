@@ -1,0 +1,147 @@
+/* カードの枠をつくる */
+.backCard {
+    width:40px;
+    height:50px;
+    margin:10px;
+    padding:10px;
+    border:1px solid white;
+    background-color: black;
+
+    position: relative;
+    
+}
+
+
+/* カードを4つずつ横並びにし、センタリング */
+.field {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 450px;
+    margin: 0 auto;
+}
+
+div {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+/*カード画像*/
+img{
+    object-fit: contain;
+    position: absolute;
+    width: 60px;
+    height: 75px;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40;
+    width: 50;
+}
+
+
+
+
+#card_name-00 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-01 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-02 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-03 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-04 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-10 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-11 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-12 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-13 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-14 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-20 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-21 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-22 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-23 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-24 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-30 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-31 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-32 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-33 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
+
+#card_name-34 {
+    background-image: url(./images/publicdomainq-0002513fdjbwb.jpg);
+    background-size: contain;
+}
